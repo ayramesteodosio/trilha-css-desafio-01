@@ -1,0 +1,18 @@
+footer{
+    text-align: center;
+    align-content: center;
+    height: 10.5rem;
+    background-image: linear-gradient(to bottom, #000000ff, #33A8DB33);
+}
+
+footer p{
+    font-size: 1rem;
+    margin: 0 auto;
+    padding-top: 0.6rem;
+}
+
+footer a {
+    color: #33A8DB;
+    text-decoration: none;
+    font-weight: 700;
+}
